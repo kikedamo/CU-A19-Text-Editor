@@ -1,0 +1,10 @@
+{
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An Text Editor With The Abilities To Be Functional Offline Using IndexedDB",
+  "background_color": "#3679a3",
+  "theme_color": "#3679a3"
+}
