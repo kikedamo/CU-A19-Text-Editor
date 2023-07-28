@@ -40,7 +40,12 @@ module.exports = () => {
             background_color:'#3679a3',
             theme_color:'#3679a3',
             start_url:'/',
-            publicPath:'/'
+            publicPath:'/',
+            icons: [{
+              src: path.resolve("src/images/logo.png"),
+              sizes: [96, 128, 192, 256, 384, 512],
+              destination: path.join("assets", "icons"),
+            }],
           }
         )
     ],
