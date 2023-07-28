@@ -36,5 +36,5 @@ registerRoute(
         statuses: [0,200],
       })
     ]
-  })
+  }),
 );
