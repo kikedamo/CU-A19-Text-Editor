@@ -4,7 +4,7 @@
 - Description Of the Contents
 - How To Install
 - link of The Deployed Application
-- Link To the Screen Recording
+- Screenshot
 - Built
 - Creator & License
 
@@ -21,9 +21,9 @@
 
 [Link to the Deployed Repo](https://cu-a19-just-another-text-edito-99427f037f94.herokuapp.com/)
 
-## Link to The Recording
+## Screenshot
 
-
+![ScreenShot](img/ScreenShot.png)
 
 ## Built
 
